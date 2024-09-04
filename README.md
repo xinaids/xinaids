@@ -1,4 +1,12 @@
-## Hi there 👋
+## BEM VINDO!
+
+<div align="center">
+  <a href="https://github.com/xinaids" >
+  <img height="180em" src=" https://github-readme-stats-sigma-five.vercel.app/api?username=xinaids&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/ >
+  <img src="https://github-profile-trophy.vercel.app/?username=ViniciusGPSOL&theme=algolia&row=2&no-bg=true&column=4&margin-w=15&margin-h=15" />
+  </a>
+</div>
+
 
 <!--
 **xinaids/xinaids** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

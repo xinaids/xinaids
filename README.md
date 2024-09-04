@@ -1,4 +1,3 @@
-## BEM VINDO!
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xinaids&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/xinaids)
 

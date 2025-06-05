@@ -1,7 +1,9 @@
 ### Seja bem vindo ao meu perfil!
+#### Tenho alguns anos em experiência de infraestrutura de TI e conhecimento de programação. Estou cursando Ciência da Computação no IFRS. No tempo vago, sou ciclista e fotógrafo.
 
+---
 ### 💡 Tecnologias que tenho conhecimento:
-
+---
 ### 🧠 Back-end
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)

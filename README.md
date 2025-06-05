@@ -3,7 +3,6 @@
 
 ---
 ### 💡 Tecnologias que tenho conhecimento:
----
 ### 🧠 Back-end
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -14,8 +13,6 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
----
-
 ### 🖥️ Infraestrutura / DevOps
 
 ![GLPI](https://img.shields.io/badge/-GLPI-2E9AFE?style=flat&logo=knowledgebase&logoColor=white)
@@ -24,7 +21,6 @@
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat&logo=microsoft&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-DC3522?style=flat&logo=zabbix&logoColor=white)
 
----
 
 ### 🎨 Front-end
 
@@ -34,7 +30,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 
-
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xinaids&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/xinaids)
 

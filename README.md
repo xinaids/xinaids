@@ -1,5 +1,5 @@
 ### Seja bem vindo ao meu perfil!
-#### Tenho alguns anos em experiência de infraestrutura de TI e conhecimento de programação. Estou cursando Ciência da Computação no IFRS. No tempo vago, sou ciclista e fotógrafo.
+#### Tenho alguns anos em experiência de infraestrutura de TI e conhecimento de programação. Estou cursando Ciência da Computação no IFRS. No tempo vago, sou ciclista e fotógrafo. Para contatos profissionais, acesse meu [LinkedIn](https://www.linkedin.com/in/mmschneider/).
 
 ---
 ### 💡 Tecnologias que tenho conhecimento:
@@ -34,10 +34,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 
-
-
-📫 Como me encontrar:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/schneidermm)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=xinaids&show_icons=true&theme=merko&include_all_commits=true&count_private=true)](https://github.com/xinaids)

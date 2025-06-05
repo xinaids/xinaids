@@ -1,5 +1,5 @@
 ### Seja bem vindo ao meu perfil!
-#### Tenho alguns anos em experiência de infraestrutura de TI e conhecimento de programação. Estou cursando Ciência da Computação no IFRS. No tempo vago, sou ciclista e fotógrafo. Para contatos profissionais, acesse meu [LinkedIn](https://www.linkedin.com/in/mmschneider/).
+#### Tenho alguns anos em experiência de infraestrutura de TI e conhecimento de programação. Estou cursando Ciência da Computação no IFRS. No tempo vago, sou ciclista e fotógrafo. Para contatos profissionais, acesse meu [LinkedIn](https://www.linkedin.com/in/schneidermm/).
 
 ---
 ### 💡 Tecnologias que tenho conhecimento:

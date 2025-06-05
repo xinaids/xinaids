@@ -1,6 +1,6 @@
 ### Seja bem vindo ao meu perfil!
 
-## 💡 Tecnologias que tenho conhecimento:
+### 💡 Tecnologias que tenho conhecimento:
 
 ### 🧠 Back-end
 
@@ -9,6 +9,8 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -20,12 +22,11 @@
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D6?style=flat&logo=microsoft&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/-Zabbix-DC3522?style=flat&logo=zabbix&logoColor=white)
 
-
-
 ---
 
 ### 🎨 Front-end
 
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
